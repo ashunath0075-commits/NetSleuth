@@ -3,6 +3,11 @@
 
 NetSleuth is a Python + Streamlit portfolio project that analyzes exported network connection records, flags unusual patterns with transparent heuristic rules, visualizes traffic, and exports findings for review.
 
+## Dashboard Preview
+
+![NetSleuth Dashboard](netsleuth-dashboard.png)
+
+
 > **Scope:** This project analyzes CSV records. It does not capture live traffic, block connections, or prove that a host is compromised. Alerts are indicators for human investigation.
 
 ## Features
